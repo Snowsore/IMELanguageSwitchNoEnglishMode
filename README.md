@@ -1,6 +1,6 @@
 # IMELanguageSwitchNoEnglishMode
 
-万恶的IME英语模式
+万恶的 IME 英语模式
 
 如果你只会汉语和英语，那你可能用不到这个脚本。但当你“不幸的”会使用多国语言的时候，Windows自带的 IME 将把你的日常输入生活带入无底深渊。
 
